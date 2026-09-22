@@ -110,7 +110,7 @@ A four-element array increases the simulated directivity to approximately 9.780 
 
 The detailed design methodology, calculations, simulation results, and analysis are available in the project report.
 
-[View the detailed project report](UHF_RFID_Patch_Antenna_Report.pdf)
+[View the detailed project report](UHF_RFID_Patch_Antenna_Report(1).pdf)
 
 ## Author
 
